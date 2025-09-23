@@ -22,7 +22,7 @@ int main() {
     scanf("%f", &bank_balance);
 
     // Display the details
-    printf("\n--- User Details ---\n");
+    printf("\n User Details \n");
     printf("Height: %.2f cm\n", height);
     printf("ID Number: %d\n", id_number);
     printf("Bank Balance: %.2f\n", bank_balance);
