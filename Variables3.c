@@ -1,6 +1,6 @@
 /*
-Name:
-Reg No:
+Name:Brian cheruiyot 
+Reg No:PA106/G/28714/25
 Description: Program to compute simple interest
 Formula: S_I = P * rate / 100 * time
 */
