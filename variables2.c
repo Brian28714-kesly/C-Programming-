@@ -1,7 +1,7 @@
 // Simple info program
 /*
 Name: Brian Cheruiyot
-Reg no: PA106/G/28714/25
+Reg  no: PA106/G/28714/25
 Description: Program to prompt user to enter height,ID number and Bank balance
 */
 
