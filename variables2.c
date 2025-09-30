@@ -2,7 +2,7 @@
 /*
 Name: Brian Cheruiyot
 Reg no: PA106/G/28714/25
-Description: Program to prompt user to enter height, ID number and Bank balance
+Description: Program to prompt user to enter height,ID number and Bank balance
 */
 
 #include <stdio.h>
